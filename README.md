@@ -3,12 +3,15 @@
 
 python版本：3.8
 用到的库：
-os  
-numpy
-random
-multiprocessing
-time
-
+os，
+numpy，
+random，
+multiprocessing，
+time，
+json，
+sys，
+flask，
+threading，
 安装完库之后，在文件根目录下面，命令行执行下述指令即可启动：
 ```
 python serve.py
